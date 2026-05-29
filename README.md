@@ -6,7 +6,8 @@ A modern, fully responsive e-commerce landing page for a premium tech gadgets st
 
 ## Preview
 
-> Live sections: Hero · Featured Products · Categories · About · Stats · Testimonials · Newsletter · Contact · Footer
+<img width="1896" height="868" alt="image" src="https://github.com/user-attachments/assets/fe9e2eb8-79fc-48a6-a8ea-25867ba4efff" />
+
 
 ---
 
